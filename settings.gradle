@@ -1,0 +1,5 @@
+rootProject.name = 'multimoduleyaml'
+
+include 'module-core'
+include 'module-api'
+
